@@ -1,0 +1,1 @@
+create table employee(id int, fullname varchar(128));
